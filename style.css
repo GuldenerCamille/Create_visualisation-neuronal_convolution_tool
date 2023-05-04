@@ -1,0 +1,43 @@
+span.css-10trblm.e16nr0p30
+{
+  text-align: center;
+}
+
+/* background page */
+section.css-uf99v8.egzxvld5
+{
+  background-color: #260f3f ;
+}
+
+/* backround taskbar left */
+div.css-6qob1r.e1fqkh3o3
+{
+ background-color: #1c0f2a;
+}
+
+/* background taskbar left_2 */
+div.css-1pd56a0.e1tzin5v0
+{
+  background-color: #260f3f;
+  border-radius: 30px;
+  padding: 25px;
+}
+
+/* background taskbar left_3 */
+div.st-au.st-ax.st-av.st-aw.st-be.st-bg.st-b8.st-b3.st-b4.st-bh.st-bi.st-bj.st-bk.st-bl.st-bm.st-bn.st-bo.st-bp.st-bq.st-b1.st-br.st-bs.st-bt.st-bu.st-bv.st-bw.st-bx
+{
+  background: #ffc107;
+  width: 250px;
+}
+
+/* background taskbar select_button*/
+div.st-c1.st-dg.st-dh.st-di.st-dj.st-dk.st-ay.st-b3.st-dl.st-dm.st-dn.st-b5.st-do.st-c8.st-ck.st-dp.st-dq.st-d0.st-b1.st-br
+{
+  background: #ffc107;
+}
+
+/* menu icone */
+a.nav-link
+{
+  background-color: #ffc107!important;
+}
